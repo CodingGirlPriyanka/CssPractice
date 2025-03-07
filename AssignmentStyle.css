@@ -1,0 +1,67 @@
+
+    body{
+      background-color: black;
+    }
+    
+    header{
+      padding: 10px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      color: white;
+
+      
+    }
+    header h1{
+      margin-left: 500px
+    }
+
+    .carose1{
+      margin-left: 300px;
+      margin-right: 300px;
+    }
+    .cards-ex{
+      display: flex;
+      justify-content: center;
+
+    }
+    .carouselExample{
+      align-items: center;
+      padding: 10px;
+      height: 100%;
+      width: 100%;
+  
+    }
+    .carousel-item {
+      align-items: center;
+      height: 100%;
+      width: 100%;
+ 
+    }
+
+    .pic {
+      width: 100%;
+    }
+
+    .card1 {
+      height: 300px;
+      display: flex;
+      justify-content:center;
+    }
+
+    .card{
+      width: 200px;
+      height: 275px;
+      margin: 10px;
+      padding: auto;
+    }
+    .pic{
+      align-items: center;
+
+    }
+    .footerCopyright{
+     display: flex;
+      color: white;
+      height: 50px;
+      align-items: center;
+      justify-content: center;
+    }
+  
